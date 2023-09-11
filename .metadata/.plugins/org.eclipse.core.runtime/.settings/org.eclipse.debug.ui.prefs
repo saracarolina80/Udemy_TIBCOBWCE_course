@@ -1,7 +1,7 @@
-com.tibco.bw.core.design.debug.ui.launch.existingApplications=FilePalletePratice/FilePoller/TimerProject/
-com.tibco.bw.core.design.debug.ui.launch.processesArg=FilePoller\=filepoller.module.Poller/
-com.tibco.bw.core.design.debug.ui.launch.selectedApplications=FilePoller/
-com.tibco.bw.core.design.debug.ui.launch.selectedModules=FilePoller.module/
-com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=FilePoller.module\=filepoller.module.Poller/
+com.tibco.bw.core.design.debug.ui.launch.existingApplications=FilePalletePratice/FilePoller/TimerProject/assignment2/
+com.tibco.bw.core.design.debug.ui.launch.processesArg=assignment2\=assignment2.module.Orders/FilePoller\=filepoller.module.Poller/
+com.tibco.bw.core.design.debug.ui.launch.selectedApplications=FilePoller/assignment2/
+com.tibco.bw.core.design.debug.ui.launch.selectedModules=FilePoller.module/assignment2.module/
+com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=FilePoller.module\=filepoller.module.Poller/assignment2.module\=assignment2.module.Orders/
 eclipse.preferences.version=1
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
